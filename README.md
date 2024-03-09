@@ -1,10 +1,6 @@
-# BG6
+# SHIVA007
 Health Insurance claims Prediction using Machine Learning
 
-Team Members :
-1. B.Kalyani
-2. K.Lalitha Annapurna
-3. A.Bhavani
 
 Introduction :
 The health care costs constitute a significant fraction of the U.S. economy. Nearly 20% of
